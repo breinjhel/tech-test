@@ -40,5 +40,16 @@ The main goal is to make the UI as smooth as possible and apply best practices i
 To run the app, make sure you have Node installed in your machine.
 ```
 npm install
-npm start
+npm run dev
 ```
+
+## Changelog
+```
+Added Docker
+Added vuejs
+Added babel polyfill
+Added webpack module bundler
+Added vue-loading-spinner
+```
+
+
