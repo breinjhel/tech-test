@@ -25,3 +25,8 @@
 .col:hover .middle {
   opacity: 1;
 }
+
+
+.pagination{
+  display:block;
+}
