@@ -41,6 +41,9 @@ To run the app, make sure you have Node installed in your machine.
 ```
 npm install
 npm run dev
+
+#Using docker
+>docker-compose up --build --force-recreate --no-deps -d
 ```
 
 ## Changelog
@@ -51,5 +54,7 @@ Added babel polyfill
 Added webpack module bundler
 Added vue-loading-spinner
 ```
+
+
 
 
